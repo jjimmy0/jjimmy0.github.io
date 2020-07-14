@@ -38,7 +38,7 @@ body {
     margin: 0 auto;
 }
 #header a {
-    color: #FF00FF;
+    color: #DF6589FF;
     text-decoration: none;
 
     text-transform: uppercase;
@@ -52,7 +52,7 @@ body {
 
 
 #footer {
-    background-color: #FF00FF;
+    background-color: #DF6589FF;
     padding: 50px 0;
 }
 .column {
@@ -117,7 +117,7 @@ p {
 }
 
 .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #3C1053FF; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
