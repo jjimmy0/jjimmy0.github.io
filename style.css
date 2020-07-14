@@ -17,7 +17,7 @@ body {
 
     font-size: 32px;
     font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Georgia, ;
 }
 #header-nav {
     display: block;
@@ -110,7 +110,7 @@ p {
 
 @import url(http://fontsgoogleapis.com/css?family=Montserrat:400,700);
 
-.post, about {
+.post, .about {
     max-width: 800px;
     margin: auto;
     padding: 60px 0;
